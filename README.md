@@ -1,4 +1,4 @@
-# Calories Burned from Hear Rate Calculator
+# Calories Burned from Heart Rate Calculator
 
 An interactive Streamlit web application that estimates calories burned during
 a workout using heart rate–based formulas. The app collects user metrics such as age, sex, weight, workout duration, and average heart rate, with optional VO₂ max support, to calculate calorie expenditure.
